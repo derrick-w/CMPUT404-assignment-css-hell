@@ -26,7 +26,7 @@ Changes made to Gutenburg
 
 Added a link to an external stylesheet at the end of the head tag in each Gutenburg document
 
-** Body: **
+**Body:**
 
 * changed background color
 
@@ -34,23 +34,23 @@ Added a link to an external stylesheet at the end of the head tag in each Gutenb
 
 * changed font to Times New Roman
 
-** Paragraphs: **
+**Paragraphs:**
 
 * added top and bottom margins
 
 * changed font to monospace
 
-** Headers (1, 2, 3, 4): **
+**Headers (1, 2, 3, 4):**
 
 * varied header font sizes
 
 * changed font to Trebuchet MS
 
-** Images: **
+**Images:**
 
 * added 7px black border around images
 
-** Image captions: **
+**Image captions:**
 
 * changed font to Tahoma
 
