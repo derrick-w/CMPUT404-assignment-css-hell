@@ -21,4 +21,48 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Changes made to Gutenburg
+=========================
 
+Added a link to an external stylesheet at the end of the head tag in each Gutenburg document
+
+** Body: **
+
+* changed background color
+
+* increased left and right margins
+
+* changed font to Times New Roman
+
+** Paragraphs: **
+
+* added top and bottom margins
+
+* changed font to monospace
+
+** Headers (1, 2, 3, 4): **
+
+* varied header font sizes
+
+* changed font to Trebuchet MS
+
+** Images: **
+
+* added 7px black border around images
+
+** Image captions: **
+
+* changed font to Tahoma
+
+* changed font to be bold
+
+* changed font color to blue
+
+* changed line-height to 1.3em
+
+Referenced:
+==========
+
+* Navigation bar CSS modified from https://www.w3schools.com/Css/css_navbar.asp
+
+* Header gradient CSS modified from https://www.w3schools.com/css/css3_gradients.asp
